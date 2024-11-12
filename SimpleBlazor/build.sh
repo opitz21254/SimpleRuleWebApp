@@ -14,4 +14,4 @@ export DOTNET_ROOT=$HOME/.dotnet
 export PATH=$PATH:$HOME/.dotnet:$HOME/.dotnet/tools
 
 # Build the project
-dotnet publish SimpleBlazor/SimpleBlazor.csproj -c Release -o build
+dotnet publish SimpleBlazor.csproj -c Release -o build
