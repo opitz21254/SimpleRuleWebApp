@@ -1,0 +1,9 @@
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/SimpleBlazor
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/appsettings.Development.json
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/appsettings.json
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/SimpleBlazor.dll
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/SimpleBlazor.deps.json
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/SimpleBlazor.runtimeconfig.json
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/SimpleBlazor.pdb
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/SimpleLogic.dll
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/bin/Release/net8.0/SimpleLogic.pdb

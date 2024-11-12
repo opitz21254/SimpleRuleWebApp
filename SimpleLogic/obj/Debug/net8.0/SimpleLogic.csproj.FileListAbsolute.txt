@@ -1,0 +1,12 @@
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/bin/Debug/net8.0/SimpleLogic.deps.json
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/bin/Debug/net8.0/SimpleLogic.dll
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/bin/Debug/net8.0/SimpleLogic.pdb
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/SimpleLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/SimpleLogic.AssemblyInfoInputs.cache
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/SimpleLogic.AssemblyInfo.cs
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/SimpleLogic.csproj.CoreCompileInputs.cache
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/SimpleLogic.dll
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/refint/SimpleLogic.dll
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/SimpleLogic.pdb
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/ref/SimpleLogic.dll
+/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/Debug/net8.0/SimpleLogic.sourcelink.json

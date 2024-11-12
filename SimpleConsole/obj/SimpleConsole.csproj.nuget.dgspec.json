@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleConsole/SimpleConsole.csproj": {}
+  },
+  "projects": {
+    "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleConsole/SimpleConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleConsole/SimpleConsole.csproj",
+        "projectName": "SimpleConsole",
+        "projectPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleConsole/SimpleConsole.csproj",
+        "packagesPath": "/Users/opitz/.nuget/packages/",
+        "outputPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleConsole/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/opitz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj": {
+                "projectPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj",
+        "projectName": "SimpleLogic",
+        "projectPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj",
+        "packagesPath": "/Users/opitz/.nuget/packages/",
+        "outputPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/opitz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
