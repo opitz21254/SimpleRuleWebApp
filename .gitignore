@@ -80,8 +80,8 @@ StyleCopReport.xml
 *_h.h
 *.ilk
 *.meta
-*.obj
-*.iobj
+#*.obj
+#*.iobj
 *.pch
 *.pdb
 *.ipdb
@@ -236,7 +236,7 @@ _pkginfo.txt
 !?*.[Cc]ache/
 
 # Others
-ClientBin/
+#ClientBin/
 ~$*
 *~
 *.dbmdl
