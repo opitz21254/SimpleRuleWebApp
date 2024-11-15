@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleTests/SimpleTests.csproj": {}
+    "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleTests\\SimpleTests.csproj": {}
   },
   "projects": {
-    "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj": {
+    "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleLogic\\SimpleLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj",
+        "projectUniqueName": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleLogic\\SimpleLogic.csproj",
         "projectName": "SimpleLogic",
-        "projectPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj",
-        "packagesPath": "/Users/opitz/.nuget/packages/",
-        "outputPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/obj/",
+        "projectPath": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleLogic\\SimpleLogic.csproj",
+        "packagesPath": "C:\\Users\\brennan.opitz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/opitz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\brennan.opitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,34 +65,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleTests/SimpleTests.csproj": {
+    "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleTests\\SimpleTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleTests/SimpleTests.csproj",
+        "projectUniqueName": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleTests\\SimpleTests.csproj",
         "projectName": "SimpleTests",
-        "projectPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleTests/SimpleTests.csproj",
-        "packagesPath": "/Users/opitz/.nuget/packages/",
-        "outputPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleTests/obj/",
+        "projectPath": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleTests\\SimpleTests.csproj",
+        "packagesPath": "C:\\Users\\brennan.opitz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/opitz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\brennan.opitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj": {
-                "projectPath": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleLogic/SimpleLogic.csproj"
+              "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleLogic\\SimpleLogic.csproj": {
+                "projectPath": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleLogic\\SimpleLogic.csproj"
               }
             }
           }
@@ -142,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

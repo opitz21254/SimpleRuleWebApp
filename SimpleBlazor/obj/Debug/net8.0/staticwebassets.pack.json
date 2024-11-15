@@ -1,55 +1,55 @@
 {
   "Files": [
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/obj/Debug/net8.0/scopedcss/projectbundle/SimpleBlazor.bundle.scp.css",
-      "PackagePath": "staticwebassets/SimpleBlazor.bundle.scp.css"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SimpleBlazor.bundle.scp.css"
     },
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/wwwroot/app.css",
-      "PackagePath": "staticwebassets/app.css"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/wwwroot/images/facebook-f-brands-black.svg",
-      "PackagePath": "staticwebassets/images/facebook-f-brands-black.svg"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\wwwroot\\images\\facebook-f-brands-black.svg",
+      "PackagePath": "staticwebassets\\images\\facebook-f-brands-black.svg"
     },
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/wwwroot/images/instagram-brands-black.svg",
-      "PackagePath": "staticwebassets/images/instagram-brands-black.svg"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\wwwroot\\images\\instagram-brands-black.svg",
+      "PackagePath": "staticwebassets\\images\\instagram-brands-black.svg"
     },
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/wwwroot/images/lines-01.svg",
-      "PackagePath": "staticwebassets/images/lines-01.svg"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\wwwroot\\images\\lines-01.svg",
+      "PackagePath": "staticwebassets\\images\\lines-01.svg"
     },
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/wwwroot/images/lines-02.svg",
-      "PackagePath": "staticwebassets/images/lines-02.svg"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\wwwroot\\images\\lines-02.svg",
+      "PackagePath": "staticwebassets\\images\\lines-02.svg"
     },
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/wwwroot/images/linkedin-in-brands-black.svg",
-      "PackagePath": "staticwebassets/images/linkedin-in-brands-black.svg"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\wwwroot\\images\\linkedin-in-brands-black.svg",
+      "PackagePath": "staticwebassets\\images\\linkedin-in-brands-black.svg"
     },
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/wwwroot/images/twitter-brands-black.svg",
-      "PackagePath": "staticwebassets/images/twitter-brands-black.svg"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\wwwroot\\images\\twitter-brands-black.svg",
+      "PackagePath": "staticwebassets\\images\\twitter-brands-black.svg"
     },
     {
-      "Id": "/Users/opitz/ZCode/SimpleRuleWebApp/SimpleBlazor/wwwroot/images/youtube-brands-black.svg",
-      "PackagePath": "staticwebassets/images/youtube-brands-black.svg"
+      "Id": "C:\\Users\\brennan.opitz\\Code\\SimpleRuleWebApp\\SimpleBlazor\\wwwroot\\images\\youtube-brands-black.svg",
+      "PackagePath": "staticwebassets\\images\\youtube-brands-black.svg"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SimpleBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimpleBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SimpleBlazor.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimpleBlazor.props",
       "PackagePath": "build\\SimpleBlazor.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SimpleBlazor.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimpleBlazor.props",
       "PackagePath": "buildMultiTargeting\\SimpleBlazor.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SimpleBlazor.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimpleBlazor.props",
       "PackagePath": "buildTransitive\\SimpleBlazor.props"
     }
   ],
